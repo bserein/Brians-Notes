@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "weekendstudy-bc-bas",
+  "private_key_id": "99a7ab2b25073135b79d3972ab636c3d16374e7c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDtLfum3zw9vOEh\nhnb8QHImExv4rZatID6HFSqRpasJQMWXr0WgK1KKrzLh0QUXo6s2tU8wKbHiLMs5\nm6s+TNQJT2pDUlMTdbIahohYTkfC3BhoHQph7OU5qYPsqcbXC4Sjx+egMKf4ruGZ\nugbLYNtBUDpik1JpE1pjApxALN/Y5m0kaZv9qxcAwPR5JDgZhorExeZNVc/f5AG1\n7qvNCU7lL2viiFIpjJ5BBUCSZUs9pSjsFFtwiCU06EncQMItq3R5FBZSr10BLtEP\n3VRlxaTCJTZ36ub+MRRsmadIIvguYxIMQmKx28qanM2UcTswj8HX/y8NUsKynJnv\nMD3GO+7rAgMBAAECggEAAdIQtJzRuZ0mKCLHJrPC06jFHSPU3GxXjMA6rOvdA/SO\nYYC+hz22x24T2KGQRbiRu0PUPbmRipgvGEbUrYGUPmsplNFD5lFIy4iNKicHOorZ\nZxyFEPAkE2lmh4+x1om9CkuwI/h53SdQRshqtwu2rAZlIMeUKU6m46+Pf9Cb6+5X\nTr9I96wizzOja+zOCJPRj0Y7K6xztUcD6gE+9AHRTCkT4fKuw3qscbN1c3mmiZi9\nPmy3m1EMaEBBcQko8V0H35b4mHJu2zRDonjM4s1vsfwmnTXwALln8WyjSvUDYZbs\n0oOVZPsJHc4qft/fGOwFS6wVAxBZ7vo8fK4bUx0ouQKBgQD/cSvcZY0nu6UXNisx\nrGQVQbXKCcbg5CHJZKuZkX30RbYA+eOt6+bSjqsbauIOeMMAfqfgbZ7yeyOkY4d+\nUtM7BK89y6DSygOPbPzdmhzhKiwDz4hcLNJnkukWSDr8vbQTcpT8Az6rAp58pqVj\ngqUdwxrf+cGrahUeAQ7DFpzESQKBgQDtspmxFY/vb/eOqZGLKkpzQm1g3wS3if4r\n7JcH+4p2w7KBJUCtqGB7+lMc54KqXZuIGaV10gj5hWH3DoMNBjLT5eYmp9ZhH50p\nASrrTq0BhTkKnFfcKG+5AjfnzUkXxcuJh7Aa8BkojU3q2PicYr0Y//n7/xxxgCNV\n60i/BPtxkwKBgQDt8AcBFv7zAdD33BdD/+aB/mFNPuon1Zi7NbC6LVH71WuBYUN5\nYAH0I7yyn07OWCKcNV4+qR2jlJxQpf0x6AimMujhUOoPLuk+EjFAYiuAeX3iVtAX\nvBCJNck0XjfD8Rjp/JNWY9deB+SFC92G4czX+kLwWn7SItBk0GtlwYxpMQKBgQCU\nW/pTrhqlnuQMFkhybRYE9LwiT3C5QhbzwXrPD7Bvylu7Ac5p1YNLPoXrr5A916lA\n/Ijqjgrt+tOXiWZAldLZsU/CZtWGz12ff0wTjIqtPULKHaU1E8QP3JOaSeZKQTl2\nAMvpNFzvk6rDX2Nk8LgIR5T3NVbCfPERKobAO1LZowKBgQDjGTmKfK9zF5bC+tbn\nQlUAVT7ru2KGIp6AFGgo7BwJO72bAWaHLn+h55AiOi4gUITCiwYmbdJVwPDvMids\nYRc+JvrOhpHuw1XI3Uy8Iv1/UQQLMAnwtZqKA/eMnWAQpW1Kt744D5zeOoLhN5hd\nlEiHCEGoQt0RvWfttjaA3GhGjA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8zd0o@weekendstudy-bc-bas.iam.gserviceaccount.com",
+  "client_id": "112310030340574366180",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8zd0o%40weekendstudy-bc-bas.iam.gserviceaccount.com"
+}

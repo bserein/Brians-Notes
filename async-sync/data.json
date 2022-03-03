@@ -1,0 +1,23 @@
+[
+  {
+    "Make": "Porsche",
+    "Model": 911,
+    "Color": "Yellow",
+    "Condition": "New",
+    "Year": 2022
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "California",
+    "Color": "Black",
+    "Condition": "New",
+    "Year": 2022
+  },
+  {
+    "Make": "Mercedes",
+    "Model": "E350",
+    "Color": "White",
+    "Condition": "Used",
+    "Year": 2011
+  }
+]
