@@ -94,3 +94,10 @@ It's like a boolean finding which one is true and which is false
 [10, 20, 30, 40]
 */
 //----------------------------------------------------------------------------------------------------
+
+let shoppingLists = ["wine", "steak", "eggs","chips","cucumbers","milk","beer"]
+
+let cart = ["eggs", "beer", "wine"]
+
+let newShoppingList = shoppingLists.filter(item => item.includes(!cart))
+console.log(newShoppingList)
